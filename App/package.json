@@ -1,0 +1,15 @@
+{
+    "name": "frist",
+    "version": "1.0.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^8.1.1"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "@elastic/elasticsearch": "^7.6.1",
+        "elasticdump": "^6.31.4"
+    }
+}

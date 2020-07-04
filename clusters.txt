@@ -1,0 +1,21 @@
+Cluster   1: 
+spaghetti___/___almonds___/___burgers___/___herb & pepper___/___ground beef___/___chocolate___/___
+ 
+Cluster   2: 
+burgers___/___avocado___/___spaghetti___/___herb & pepper___/___ground beef___/___chocolate___/___
+ 
+Cluster   3: 
+spaghetti___/___burgers___/___herb & pepper___/___ground beef___/___chocolate___/___tomato sauce___/___
+ 
+Cluster   4: 
+herb & pepper___/___burgers___/___spaghetti___/___olive oil___/___ground beef___/___mineral water___/___
+ 
+Cluster   5: 
+spaghetti___/___ground beef___/___chocolate___/___tomato sauce___/___red wine___/___french wine___/___
+ 
+Cluster   6: 
+olive oil___/___chicken___/___spaghetti___/___milk___/___meatballs___/___parmesan cheese___/___
+ 
+Cluster   7: 
+shrimp___/___escalope___/___mushroom cream sauce___/___spaghetti___/___tomato sauce___/___olive oil___/___
+ 
