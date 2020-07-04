@@ -16,3 +16,12 @@ https://drive.google.com/uc?export=view&id=1BYJybbu9HLqw9QOqK4EqrPt8mLHPigkB
 * ### Dashboard :
 https://drive.google.com/uc?export=view&id=1BDx_8UBME6A_xx4rE_uHsp6yvNhfXhRf
 ![Clusters](https://drive.google.com/uc?export=view&id=1BDx_8UBME6A_xx4rE_uHsp6yvNhfXhRf)
+
+
+#### How to run the project out :
+##### * run git clone 
+##### * install Elastic search
+##### * install kibana 
+##### * inject data into kibana
+##### * npm update 
+##### * npm start 
